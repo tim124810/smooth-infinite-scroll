@@ -1,1 +1,1 @@
-# vue-smooth-infinite-scroll
+# smooth-infinite-scroll
