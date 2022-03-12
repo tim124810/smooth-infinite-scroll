@@ -70,7 +70,7 @@ function isElementInViewport() {
 function handleElementInViewport(callBackFunction) {
     if (isElementInViewport()) {
         element = callBackFunction();
-        // Option : after CallBackFunction is called delete Listener. Add new Listener within CallBack Function
+        //element changed to return-value of callback function
     }
     return true;
 }
