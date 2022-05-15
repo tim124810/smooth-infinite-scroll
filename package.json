@@ -2,7 +2,7 @@
   "name": "smooth-infinite-scroll",
   "version": "0.1.0",
   "description": "JS plugin for smooth infinite scroll",
-  "main": "smoothscrolling.min.js",
+  "main": "src/index.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
