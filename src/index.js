@@ -74,3 +74,8 @@ function handleElementInViewport(callBackFunction) {
     }
     return true;
 }
+
+module.exports = createListener;
+
+// Allow use of default import syntax in TypeScript
+module.exports.default = createListener;
