@@ -1,4 +1,4 @@
-# smooth-infinite-scroll [![Node.js Package](https://github.com/tim124810/smooth-infinite-scroll/actions/workflows/npm-publish.yml/badge.svg?event=release)](https://github.com/tim124810/smooth-infinite-scroll/actions/workflows/npm-publish.yml)
+# smooth-infinite-scroll
 
 JS Plugin for smooth infinite scroll
 
