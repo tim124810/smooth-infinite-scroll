@@ -72,7 +72,7 @@ function handleElementInViewport(callBackFunction) {
         element = callBackFunction();
         //element changed to return-value of callback function
     }
-    return true;
+
 }
 
 module.exports = createListener;
